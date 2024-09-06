@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-main( ) 
+int main( ) 
 {
 	int num;
 
@@ -9,4 +9,6 @@ main( )
 
 	if ( num <= 10 )
 		printf ( "What an obedient servant you are!\n" ) ; 
+	else
+		printf("What a scam!");
 }

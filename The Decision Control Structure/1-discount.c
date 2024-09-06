@@ -6,7 +6,7 @@
  * and price per item are input through the keyboard, write a program
  * to calculate the total expenses.
  */
-main()
+int main()
 {
 	int dis, quan, price, total;
 
